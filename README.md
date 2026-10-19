@@ -3,9 +3,9 @@
 [lauracastaneda625@gmail.com] | [URL de tu LinkedIn] | https://github.com/Laurita274 | Medellín, Colombia
 ***
 
-<h1 align="center">💻 Desarrollo de Software & Bases de Datos</h1>
+<h1💻 Desarrollo de Software & Bases de Datos</h1>
 
-<h3 align="center">
+<h3>
   Especializada en lógica de programación, modelado de datos relacionales y desarrollo web
 </h3>
 
@@ -16,12 +16,12 @@
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Laurita274&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laurita274&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes de programación más utilizados" height="180" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laurita274&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de GitHub" />
 </p>
 
