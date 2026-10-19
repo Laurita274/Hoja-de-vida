@@ -1,5 +1,5 @@
 ***
-Laura Marcela Castañeda Acevedo | [Tu Correo Electrónico] | [URL de tu LinkedIn] | https://github.com/Laurita274 | Medellín, Colombia
+Laura Marcela Castañeda Acevedo | [lauracastaneda625@gmail.com] | [URL de tu LinkedIn] | https://github.com/Laurita274 | Medellín, Colombia
 ***
 
 ### Perfil Profesional
@@ -28,7 +28,7 @@ Servicio Nacional de Aprendizaje (SENA) - Centro Textil y de Gestión Industrial
 
 ### Idiomas
 * **Español:** Nativo
-* **Inglés:** Avanzado (C1)
+* **Inglés:** Básico (B1)
 
 ### Proyectos Destacados
 
@@ -36,10 +36,3 @@ Servicio Nacional de Aprendizaje (SENA) - Centro Textil y de Gestión Industrial
 Desarrollo full-stack de un catálogo digital y panel administrativo para una tienda de ropa femenina. Arquitectura basada en un modelo de base de datos relacional robusto para la gestión eficiente de inventario, historias de usuario y pedidos.
 * **Enlaces:** [Enlace a la Demo] | [Enlace al Código]
 
-**2. FixNow - Marketplace de Reparaciones Técnicas**
-Plataforma web diseñada para conectar proveedores de servicios de reparación técnica con usuarios en Medellín. Incluye módulos seguros de registro, análisis DOFA del entorno y un diseño escalable orientado a la usabilidad.
-* **Enlaces:** [Enlace a la Demo] | [Enlace al Código]
-
-**3. Sistema de Gestión y Reserva de Turnos**
-Aplicación web de automatización de turnos desarrollada para entornos institucionales, diseñada específicamente para reducir los tiempos de espera y optimizar el uso de recursos compartidos durante las horas pico de flujo de usuarios.
-* **Enlaces:** [Enlace a la Demo] | [Enlace al Código]
