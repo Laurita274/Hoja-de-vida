@@ -3,7 +3,7 @@
 [lauracastaneda625@gmail.com] | [URL de tu LinkedIn] | https://github.com/Laurita274 | Medellín, Colombia
 ***
 
-<h1💻 Desarrollo de Software & Bases de Datos</h1>
+<h1>💻 Desarrollo de Software & Bases de Datos</h1>
 
 <h3>
   Especializada en lógica de programación, modelado de datos relacionales y desarrollo web
