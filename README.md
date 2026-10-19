@@ -1,8 +1,16 @@
-***
+**
 Laura Marcela Castañeda Acevedo 
+**
+***
 [Lauracastaneda625@gmail.com] 
+***
+***
 [URL de tu LinkedIn] 
+***
+***
 https://github.com/Laurita274
+***
+***
 Medellín, Colombia
 ***
 
