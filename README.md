@@ -3,10 +3,6 @@
 [lauracastaneda625@gmail.com] | [URL de tu LinkedIn] | https://github.com/Laurita274 | Medellín, Colombia
 ***
 
-<div align="center">
-  <img src="assets/banner.png" alt="Banner de Desarrollo de Software" width="100%">
-</div>
-
 <h1 align="center">💻 Desarrollo de Software & Bases de Datos</h1>
 
 <h3 align="center">
@@ -44,18 +40,6 @@ Desarrollo de un catálogo digital y panel administrativo funcional.
 * **Aportes:** Construcción de matrices de requerimientos, historias de usuario, diagramas BPMN y modelos lógicos de bases de datos. Diagramación conceptual de la arquitectura utilizando PlantUML.
 * **Tecnologías:** PHP, SQL, PlantUML.
 * **Enlaces:** [Enlace a la Demo / Repositorio]
-
-**2. FixNow - Marketplace de Reparaciones Técnicas**
-Diseño y estructuración de una plataforma web destinada a conectar proveedores de servicios de reparación técnica con usuarios en la ciudad de Medellín.
-* **Aportes:** Diseño de la arquitectura de negocio, análisis DOFA enfocado en el entorno local y desarrollo de código para las interfaces web de registro de usuarios y proveedores.
-* **Tecnologías:** HTML/CSS, Bootstrap, Metodologías de Análisis de Sistemas.
-* **Enlaces:** [Enlace a la Documentación / Repositorio]
-
-**3. Sistema Institucional de Gestión y Reserva de Turnos**
-Aplicación web diseñada para automatizar y gestionar los turnos de uso de recursos compartidos (microondas del CTGI), con el objetivo de reducir los tiempos de espera de los aprendices durante las horas de almuerzo.
-* **Aportes:** Formulación de preguntas de investigación, interpretación de encuestas, levantamiento de requerimientos del sistema y diseño lógico del flujo de reservas.
-* **Tecnologías:** PSeInt, Python, SQL.
-* **Enlaces:** [Enlace a la Documentación / Repositorio]
 
 ## 🛠️ Habilidades Técnicas (Skills)
 
