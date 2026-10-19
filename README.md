@@ -6,7 +6,7 @@
 <h1>💻 Desarrollo de Software & Bases de Datos</h1>
 
 <h3>
-  Especializada en lógica de programación, modelado de datos relacionales y desarrollo web
+Desarrolladora de Software en formación con sólida base en lógica de programación, arquitectura web y gestión de bases de datos, orientada al aprendizaje acelerado y la innovación. Apasionada por resolver problemas mediante código limpio, diseño modular y buenas prácticas de desarrollo. Con mentalidad analítica, adaptabilidad ante nuevas tecnologías e integración activa de herramientas asistidas por Inteligencia Artificial para maximizar la productividad en proyectos ágiles. Preparada para aportar valor inmediato en la etapa práctica e integrarse efectivamente a equipos técnicos de alto rendimiento.
 </h3>
 
 ### Perfil Profesional
